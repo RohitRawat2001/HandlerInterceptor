@@ -1,0 +1,14 @@
+<!-- Created with Jaspersoft Studio version 7.0.1.final using JasperReports Library version 7.0.1-573496633c2b4074e32f433154b543003f7d2498  -->
+<jasperReport name="demo1" language="java" pageWidth="595" pageHeight="842" columnWidth="555" leftMargin="20" rightMargin="20" topMargin="20" bottomMargin="20" uuid="1dee37c2-8bb1-42da-8930-4a5a452e7834">
+	<property name="com.jaspersoft.studio.data.defaultdataadapter" value="One Empty Record"/>
+	<query language="sql"><![CDATA[]]></query>
+	<background splitType="Stretch"/>
+	<detail>
+		<band height="500" splitType="Stretch">
+			<element kind="staticText" uuid="d415322b-7fdc-4ac2-bbf4-a419f516d452" x="0" y="0" width="544" height="80" fontName="Algerian" fontSize="51.0" hTextAlign="Center">
+				<text><![CDATA[REPORT CARD]]></text>
+			</element>
+			<property name="com.jaspersoft.studio.unit.height" value="px"/>
+		</band>
+	</detail>
+</jasperReport>
